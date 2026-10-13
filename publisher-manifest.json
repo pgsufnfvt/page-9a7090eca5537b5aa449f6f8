@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "d0f1ed577eccd073de97379c",
+  "owner": "pgsufnfvt",
+  "repo": "page-9a7090eca5537b5aa449f6f8",
+  "title": "clashmeta",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9a7090eca5537b5aa449f6f8",
+      "a": "clashmeta",
+      "b": "",
+      "entity": "clashmeta",
+      "brand": "clashmeta",
+      "separator": "",
+      "path": "index.html",
+      "hash": "80e63a94d09388fecb077caf102619c218765066c0099e6bcea8e1e08a97049b",
+      "content": {
+        "keyword1": "clashmeta",
+        "keyword2": "",
+        "primary_entity": "clashmeta",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clashmeta 官方网站介绍机场订阅与 VPN 网络加速方案，比较基础版、旗舰版和团队版的流量与设备额度，并说明客户端下载和连接步骤。",
+          "AI_DESCRIPTION": "clashmeta 官方网站介绍机场订阅与 VPN 网络加速方案，比较基础版、旗舰版和团队版的流量与设备额度，并说明客户端下载和连接步骤。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n<style>\n:root{--bg:#F4F1E8;--paper:#FFFCF7;--green:#1B4332;--deep:#0F2E22;--soft:#E4EFE8;--text:#1A2420;--muted:#3E4F48;--line:#D5DDD6;--accent:#2D6A4F}\n*{box-sizing:border-box}\nbody{margin:0;background:var(--bg);color:var(--text);font-family:PingFang SC,Hiragino Sans GB,Microsoft YaHei,sans-serif;font-size:16px;line-height:1.7;overflow-x:hidden}\na{color:var(--green)}\na:focus{outline:2px solid var(--accent);outline-offset:2px}\n.wrap{width:100%;max-width:760px;margin:0 auto;padding:0 16px}\nheader{background:var(--green);color:#F7F4EC}\nheader a{color:#F7F4EC;text-decoration:none}\n.brand{font-size:1.15rem;font-weight:700;letter-spacing:.02em;margin:0}\n.tag{margin:4px 0 0;color:#E4EFE8;font-size:.95rem}\nnav{display:flex;flex-wrap:wrap;gap:8px 14px;padding:12px 0 16px}\nnav a{text-decoration:underline;text-underline-offset:3px}\nmain{padding:8px 0 32px}\nh1{font-size:1.75rem;line-height:1.35;margin:20px 0 8px;color:var(--deep)}\nh2{font-size:1.35rem;line-height:1.4;margin:28px 0 10px;color:var(--green)}\nh3{font-size:1.08rem;line-height:1.45;margin:14px 0 6px}\np{margin:0 0 12px}\n.lead{font-size:1.05rem}\nsection{padding-bottom:4px}\nul,ol{margin:0 0 12px;padding-left:1.2rem}\nli{margin:0 0 6px}\n.steps{list-style:none;margin:0;padding:0;counter-reset:step}\n.steps>li{position:relative;padding:0 0 18px 52px}\n.steps>li::before{content:counter(step);counter-increment:step;position:absolute;left:0;top:0;width:32px;height:32px;border-radius:50%;background:var(--green);color:#F7F4EC;text-align:center;line-height:32px;font-weight:700}\n.steps>li::after{content:'';position:absolute;left:15px;top:32px;bottom:0;width:2px;background:var(--accent)}\n.steps>li:last-child::after{content:none}\n.plan{background:var(--paper);border:1px solid var(--line);padding:16px;margin:0 0 14px}\n.plan h3{margin-top:0}\n.price{font-size:1.5rem;font-weight:700;margin:0 0 4px}\n.annual{color:var(--muted);margin:0 0 10px}\n.plan.featured{background:var(--green);color:#F7F4EC;border:2px solid var(--deep)}\n.plan.featured a{color:#F7F4EC}\n.plan.featured .annual{color:#E4EFE8}\n.kicker{display:inline-block;background:#E4EFE8;color:var(--deep);font-weight:700;padding:2px 8px;margin:0 0 8px}\n.note{background:var(--soft);padding:12px;border-left:4px solid var(--accent)}\ndetails{background:var(--paper);border:1px solid var(--line);padding:12px 14px;margin:0 0 10px}\nsummary{font-weight:700;cursor:pointer;color:var(--deep)}\nfooter{background:var(--deep);color:#F7F4EC;padding:16px 0 24px}\nfooter p{margin:0;font-size:.95rem}\n</style>\n\n\n<header>\n<div class=\"wrap\">\n<p class=\"brand\">clashmeta</p>\n<p class=\"tag\">机场订阅与网络加速说明</p>\n<nav>\n<a href=\"#about\">品牌简介</a>\n<a href=\"#scenes\">使用场景</a>\n<a href=\"#guide\">操作说明</a>\n<a href=\"#plans\">套餐对比</a>\n<a href=\"#download\">客户端下载</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n</div>\n</header>\n<main>\n<div class=\"wrap\">\n<h1>clashmeta 官方网站</h1>\n<p class=\"lead\">clashmeta 把机场订阅、VPN 网络加速和客户端使用说明放在同一页。你可以按流量、同时在线设备和线路类型，比较基础版、旗舰版与团队版，再按纵向步骤完成安装与连接。</p>\n<section id=\"about\">\n<h2>品牌简介</h2>\n<p>clashmeta机场面向需要稳定访问境外网站、远程协作或观看已解锁流媒体的个人、家庭和小型团队。本页不提供测速排名，也不引用用户评分或评论，只说明各套餐已经写明的额度与能力。</p>\n<p>把 clashmeta 当作 VPN 或加速器使用时，流程是在自己的设备上安装兼容客户端，导入订阅并选择节点。基础版使用普通线路节点池；旗舰版增加 IPLC 专线游戏加速优化和优先工单；团队版提供 VIP 专属高带宽节点、企业定制路由和专属客户经理。请在遵守所在地法律的前提下使用。</p>\n</section>\n<section id=\"scenes\">\n<h2>使用场景</h2>\n<h3>远程办公与资料查阅</h3>\n<p>打开境外协作平台、文档或邮件前，先连接当前套餐内可用节点。加速解决的是网络可达性，账号、文件和支付仍走原有加密与权限，不要把订阅地址交给同事以外的人。</p>\n<h3>流媒体观看</h3>\n<p>基础版包含基础流媒体解锁，旗舰版为全节点原生流媒体解锁。某个片库打不开时，先更新订阅并更换同一套餐中的其他节点，不要再叠加来源不明的免费梯子。</p>\n<h3>游戏与实时通信</h3>\n<p>旗舰版写明包含 IPLC 专线游戏加速优化。延迟还受本地运营商和游戏服务器位置影响，本页不承诺统一的毫秒数。语音或视频会议同样建议固定一个稳定节点，避免频繁切换。</p>\n<h3>多设备同时在线</h3>\n<p>手机、电脑和平板都会计入同时在线数量。日常三台以内可选基础版，五台以内看旗舰版，小团队或家庭共用更适合团队版的二十台额度。</p>\n</section>\n<section id=\"guide\">\n<h2>操作说明</h2>\n<p>下面五步按实际使用顺序排列。每一步完成后再进入下一步，可以减少连上却没有流量、或设备数被占满的情况。</p>\n<ol class=\"steps\">\n<li>\n<h3>按需求选择套餐</h3>\n<p>轻度浏览选基础版；经常观看视频或需要游戏线路选旗舰版；多人共用、要更高流量和定制路由选团队版。月费和年付都写在下方套餐卡上，年付不是另算的隐藏折扣。</p>\n</li>\n<li>\n<h3>保存订阅地址</h3>\n<p>订阅地址相当于节点列表入口，只放在自己的客户端里。不要发到公开群、截图或网页源码中。如果已经泄露，先重置订阅，再让各设备重新导入，旧链接应停止使用。</p>\n</li>\n<li>\n<h3>安装系统对应的客户端</h3>\n<p>电脑看桌面客户端要点，手机看对应系统的安装要点，入口都在本页客户端下载一节。忽略名称相近但来源不清的安装包，尤其是要求关闭安全保护或附带未知插件的版本。</p>\n</li>\n<li>\n<h3>导入订阅并更新节点</h3>\n<p>在客户端的订阅或配置页粘贴订阅地址，执行更新。看到节点列表后再选择线路。若列表为空，先检查地址是否完整、网络是否允许客户端联网，而不是反复安装多个加速器。</p>\n</li>\n<li>\n<h3>连接并按场景更换节点</h3>\n<p>按客户端提示开启系统代理或本地虚拟网卡，然后访问目标网站。流媒体、游戏和普通网页可以换不同节点。结束后断开连接，避免闲置设备继续占用在线名额和流量。</p>\n</li>\n</ol>\n</section>\n<section id=\"plans\">\n<h2>套餐对比</h2>\n<p>三档套餐纵向排列，方便在手机上逐项对照。深色卡片是旗舰版，用来标出多数人会优先比较的一档，不是用户投票结果。</p>\n<article class=\"plan\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n<p class=\"annual\">按年付仅需 ¥150/年</p>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n<p><a href=\"#guide\">按此套餐查看操作说明</a></p>\n</article>\n<article class=\"plan featured\">\n<p class=\"kicker\">主推套餐</p>\n<h3>旗舰版</h3>\n<p class=\"price\">¥35/月</p>\n<p class=\"annual\">按年付仅需 ¥350/年</p>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n<p><a href=\"#guide\">按此套餐查看操作说明</a></p>\n</article>\n<article class=\"plan\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n<p class=\"annual\">按年付仅需 ¥850/年</p>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n<p><a href=\"#guide\">按此套餐查看操作说明</a></p>\n</article>\n<p class=\"note\">选择时先数设备，再估每月流量。只看网页和邮件，基础版通常够用；既要流媒体又要游戏线路，旗舰版覆盖更完整；需要二十台设备或企业路由时再看团队版。</p>\n</section>\n<section id=\"download\">\n<h2>客户端下载</h2>\n<p>clashmeta 官网下载说明集中在本节。安装包不由本页跳转到外部地址，链接只在页面内定位，避免把订阅服务和来路不明的文件混在一起。</p>\n<h3 id=\"desktop\">电脑客户端</h3>\n<p>Windows 与 macOS 使用桌面客户端。安装后若系统询问本地网络或代理权限，确认是你刚安装的程序再允许。然后导入订阅、更新节点并连接。由单位统一管理的电脑，先得到设备管理人同意再安装。</p>\n<h3 id=\"mobile\">手机客户端</h3>\n<p>Android 与 iOS 分别使用对应客户端。系统可能会要求允许本地网络，或添加 VPN 配置，按系统提示完成。同一时间只保留一个加速器或梯子类应用运行，两个程序同时接管流量时容易出现规则冲突。</p>\n<p>导入成功的标志是节点列表可刷新，并且选中节点后目标网站能够打开。若只能打开客户端、列表一直为空，回到操作说明检查订阅是否已更新。</p>\n<p><a href=\"#plans\">返回套餐对比</a></p>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>clashmeta 有哪些套餐，差别在哪里？</summary>\n<p>页面列出三档。基础版每月 100GB、3 台设备、基础流媒体和普通线路节点池，月费 ¥15，年付 ¥150。旗舰版每月 300GB、5 台设备，包含全节点原生流媒体解锁、IPLC 专线游戏加速优化和 7x24 优先工单，月费 ¥35，年付 ¥350。团队版每月 1000GB、20 台设备，包含 VIP 专属高带宽节点、企业定制路由和专属客户经理，月费 ¥85，年付 ¥850。</p>\n</details>\n<details>\n<summary>年付金额是不是就是卡片上的价格？</summary>\n<p>是。基础版按年付仅需 ¥150/年，旗舰版按年付仅需 ¥350/年，团队版按年付仅需 ¥850/年。本页没有另外的折扣计算，也不展示评分或用户评价来影响选择。</p>\n</details>\n<details>\n<summary>如何导入机场订阅？</summary>\n<p>在已安装的客户端里打开订阅或配置，粘贴只属于你的订阅地址并执行更新。出现节点后再连接。不要把订阅发到公开场合。若地址已经暴露，先重置生成新订阅，所有设备改用新地址。</p>\n</details>\n<details>\n<summary>客户端下载应该看哪里？</summary>\n<p>看本页客户端下载中的电脑客户端和手机客户端说明。这里的链接是页面锚点，不指向外部文件。请不要安装名称相似但来源不清的程序，也不要使用要求额外关闭系统防护的所谓修改版。</p>\n</details>\n<details>\n<summary>同时在线设备达到上限怎么办？</summary>\n<p>基础版最多 3 台，旗舰版最多 5 台，团队版最多 20 台。达到上限后，在不再使用的设备上断开并退出，名额会释放；若经常不够用，改为更高设备额度的套餐，而不是共用别人的订阅。</p>\n</details>\n<details>\n<summary>流量用完或某个节点连不上如何处理？</summary>\n<p>流量按套餐写明的每月额度使用。用尽后需等待下一计费周期，或改选额度更高的套餐，具体以开通时的规则为准。单个节点失败时，先更新订阅，再换同一套餐里的其他节点。需要游戏专线时，确认当前是否为包含 IPLC 优化的旗舰版。</p>\n</details>\n</section>\n</div>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n<footer>\n<div class=\"wrap\">\n<p>clashmeta 方案说明。使用网络加速、机场订阅和客户端前，请遵守所在地法律法规，并妥善保管订阅地址。</p>\n</div>\n</footer>\n\n",
+          "hash": "f55ca4edd7d63b43f1756bc8f3662c2a50ff5b70029ec246d8eb60293e8cd690",
+          "seo": {
+            "title": "clashmeta 官网：网络加速、机场订阅与客户端下载",
+            "keywords": "clashmeta,clashmeta机场,clashmeta VPN,机场订阅,网络加速,加速器,梯子,客户端下载,官网下载",
+            "description": "clashmeta 官方网站介绍机场订阅与 VPN 网络加速方案，比较基础版、旗舰版和团队版的流量与设备额度，并说明客户端下载和连接步骤。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zizafzt.cn",
+    "host": "p-1101224bf4.zizafzt.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "dbbd1fb1615ee3933389ff53bc9d538f80283bfc85b481ed07abd3bacaff00d3",
+    "sitemap.xml": "dc361e21b1d3bd5693311e0595bbdb66ad63726dcaa9a3870a0e0f3253ced2aa",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "71c7f53cc225163964d1addc3f18dd55a2b0e56a07e2b1dca2938545cfb0a1cb",
+    "robots.txt": "c257c2f808df3df44ac9608ab08bef4228bc1a6d15e10ad973f5fe7bc0452141",
+    "7c75bdd64438619b64df538a2283583e.txt": "b8b0f4248b205addbaa6e7d167f091d1c9db3a3e7d2309e79acb7d3475a573a2"
+  },
+  "revision": "38c5fbb02344b0504d888142a46dff3edc6021808d0be3737c701a34d4b36922"
+}
